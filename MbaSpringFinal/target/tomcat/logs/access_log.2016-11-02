@@ -1,0 +1,17 @@
+0:0:0:0:0:0:0:1 - - [02/Nov/2016:02:53:04 -0500] "GET / HTTP/1.1" 200 2211 http-bio-8080-exec-1 118
+0:0:0:0:0:0:0:1 - - [02/Nov/2016:02:53:04 -0500] "GET /resources/images/header.jpg HTTP/1.1" 304 - http-bio-8080-exec-2 56
+0:0:0:0:0:0:0:1 - - [02/Nov/2016:02:53:10 -0500] "GET / HTTP/1.1" 200 2211 http-bio-8080-exec-3 6
+0:0:0:0:0:0:0:1 - - [02/Nov/2016:02:53:19 -0500] "GET /Welcome HTTP/1.1" 200 508 http-bio-8080-exec-4 18
+0:0:0:0:0:0:0:1 - - [02/Nov/2016:02:53:23 -0500] "GET /getAllStudents HTTP/1.1" 200 3671 http-bio-8080-exec-5 510
+0:0:0:0:0:0:0:1 - - [02/Nov/2016:02:53:23 -0500] "GET /images/header.jpg HTTP/1.1" 404 985 http-bio-8080-exec-6 4
+0:0:0:0:0:0:0:1 - - [02/Nov/2016:02:53:24 -0500] "GET /images/header.jpg HTTP/1.1" 404 985 http-bio-8080-exec-7 4
+0:0:0:0:0:0:0:1 - - [02/Nov/2016:02:53:30 -0500] "GET /getAllStudents HTTP/1.1" 200 3671 http-bio-8080-exec-8 54
+0:0:0:0:0:0:0:1 - - [02/Nov/2016:02:53:30 -0500] "GET /images/header.jpg HTTP/1.1" 404 985 http-bio-8080-exec-10 18
+0:0:0:0:0:0:0:1 - - [02/Nov/2016:02:53:30 -0500] "GET /images/header.jpg HTTP/1.1" 404 985 http-bio-8080-exec-10 8
+0:0:0:0:0:0:0:1 - - [02/Nov/2016:02:53:33 -0500] "GET /emailForm HTTP/1.1" 404 969 http-bio-8080-exec-10 2
+0:0:0:0:0:0:0:1 - - [02/Nov/2016:02:53:41 -0500] "GET /emailForm HTTP/1.1" 404 969 http-bio-8080-exec-10 3
+0:0:0:0:0:0:0:1 - - [02/Nov/2016:02:53:44 -0500] "GET /getAllStudents HTTP/1.1" 200 3671 http-bio-8080-exec-10 69
+0:0:0:0:0:0:0:1 - - [02/Nov/2016:02:53:44 -0500] "GET /images/header.jpg HTTP/1.1" 404 985 http-bio-8080-exec-10 12
+0:0:0:0:0:0:0:1 - - [02/Nov/2016:02:53:44 -0500] "GET /images/header.jpg HTTP/1.1" 404 985 http-bio-8080-exec-10 3
+0:0:0:0:0:0:0:1 - - [02/Nov/2016:02:53:46 -0500] "GET /generateEmail?id=700009 HTTP/1.1" 200 2286 http-bio-8080-exec-10 79
+0:0:0:0:0:0:0:1 - - [02/Nov/2016:02:53:52 -0500] "GET /AddAdvisior HTTP/1.1" 200 3121 http-bio-8080-exec-10 34
